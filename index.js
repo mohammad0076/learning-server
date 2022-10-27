@@ -4,7 +4,7 @@ const port = process.env.PORT || 5000;
 const data = require('./data/data.json')
 const cors = require('cors');
 const cat = require('./data/datad.json');
-const b = a;
+
 app.use(cors());
 
 app.get('/', (req, res) => {
