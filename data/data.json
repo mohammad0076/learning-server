@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "c_title": "JavaScript",
+        "teacher": "Marijn Haverbeke",
+        "catagories": "Proggramming",
+        "price": 2000,
+        "image": "https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png",
+        "videos": 472,
+        "description": "JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+        "id": "2",
+        "c_title": "C",
+        "teacher": "ABUL MIA",
+        "catagories": "Structure-proggramming",
+        "publisher": "No Starch Press",
+        "price": 2000,
+        "image": "https://www.thetechdestiny.com/wp-content/uploads/2015/12/C-2.jpg",
+        "videos": 442,
+        "description": "C lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+        "id": "3",
+        "c_title": "Java",
+        "teacher": "babul MIA",
+        "catagories": "O-O-proggramming",
+        "publisher": "No Starch Press",
+        "price": 3000,
+        "image": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+        "videos": 542,
+        "description": "C lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+        "id": "4",
+        "c_title": "Data structure",
+        "teacher": "Kabul mia MIA",
+        "catagories": "Data structure",
+        "publisher": "No Starch Press",
+        "price": 4000,
+        "videos": 442,
+        "image": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+        "description": "DS lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+        "id": "5",
+        "c_title": " Algorithm",
+        "teacher": "LBUL MIA",
+        "catagories": "AL-proggramming",
+        "publisher": "No Starch Press",
+        "price": 2000,
+        "videos": 432,
+        "image": "https://miro.medium.com/max/720/1*Aih9FwHjvM6AEL1aBh6W2g.png",
+        "description": "ALGO lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    },
+    {
+        "id": "6",
+        "c_title": "DataBase",
+        "teacher": "ABUL MIA",
+        "catagories": "Database-proggramming",
+        "publisher": "No Starch Press",
+        "price": 2020,
+        "videos": 442,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+        "description": "DB lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+    }
+]
